@@ -1,0 +1,18 @@
+﻿@using SportStore.WebUI.Models
+@using SportStore.Domain.Entities
+@using SportStore.WebUI.HtmlHelpers
+
+@model ProductListViewModel
+
+@{
+    ViewBag.Title = "Products";
+}
+
+@foreach(var p in Model.Products)
+{
+    Html.RenderPartial("ProductSummary", p);
+}
+
+<div class="pager">
+    @Html.PageLinks(Model.PagingInfo, x => Url.Action("List", new { category = Model.CurrentCategory, page = x}))
+</div>

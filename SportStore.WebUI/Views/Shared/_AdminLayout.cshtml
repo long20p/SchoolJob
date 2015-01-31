@@ -1,0 +1,22 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    @Styles.Render("~/Content/Admin.css")
+    @Scripts.Render("~/Scripts/jquery-1.8.2.js")
+    @Scripts.Render("~/Scripts/jquery.validate.js")
+    @Scripts.Render("~/Scripts/jquery.validate.unobtrusive.js")
+    <title>@ViewBag.Title</title>
+</head>
+<body>
+    <div>
+        @if(TempData["message"] != null)
+        {
+            <div class="Message">@TempData["message"]</div>
+        }
+        <div>@Html.ActionLink("Sign out", "Logout", "Account")</div>
+        @RenderBody()
+    </div>
+</body>
+</html>

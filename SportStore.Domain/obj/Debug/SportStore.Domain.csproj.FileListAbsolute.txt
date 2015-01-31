@@ -1,0 +1,15 @@
+E:\VisualStudio Projects\SportStore\SportStore.Domain\bin\Debug\SportStore.Domain.dll
+E:\VisualStudio Projects\SportStore\SportStore.Domain\bin\Debug\SportStore.Domain.pdb
+E:\VisualStudio Projects\SportStore\SportStore.Domain\obj\Debug\SportStore.Domain.csprojResolveAssemblyReference.cache
+E:\VisualStudio Projects\SportStore\SportStore.Domain\obj\Debug\SportStore.Domain.dll
+E:\VisualStudio Projects\SportStore\SportStore.Domain\obj\Debug\SportStore.Domain.pdb
+E:\VisualStudio Projects\SportStore\SportStore.Domain\bin\Debug\SportStore.Domain.dll.config
+E:\VisualStudio Projects\SportStore\SportStore.Domain\bin\Debug\EntityFramework.dll
+E:\VisualStudio Projects\SportStore\SportStore.Domain\bin\Debug\EntityFramework.SqlServer.dll
+E:\VisualStudio Projects\SportStore\SportStore.Domain\bin\Debug\EntityFramework.xml
+E:\VisualStudio Projects\SportStore\SportStore.Domain\bin\Debug\EntityFramework.SqlServer.xml
+E:\VisualStudio Projects\SportStore\SportStore.Domain\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+E:\VisualStudio Projects\SportStore\SportStore.Domain\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+E:\VisualStudio Projects\SportStore\SportStore.Domain\bin\Debug\Newtonsoft.Json.dll
+E:\VisualStudio Projects\SportStore\SportStore.Domain\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+E:\VisualStudio Projects\SportStore\SportStore.Domain\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.xml
